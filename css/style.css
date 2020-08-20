@@ -6,10 +6,12 @@
 html {
     font-size: 100%;
 		box-sizing: border-box;
-
 }
 
 body {
+	margin: 0;
+	padding: 0;
+	
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
