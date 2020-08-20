@@ -24,7 +24,8 @@ body {
 	padding: 100px;
 }
 
-/* Write all remaining styles here */
-footer#copy {
+footer {
 	text-align: right;
 }
+/* Write all remaining styles here */
+
