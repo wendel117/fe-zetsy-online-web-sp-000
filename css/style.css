@@ -32,6 +32,8 @@ footer {
 }
 /* Write all remaining styles here */
 
-h1 {
+h1, h2 {
 	font-family: 'Libre Baskerville', serif;
 }
+
+
