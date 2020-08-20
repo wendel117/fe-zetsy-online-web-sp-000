@@ -3,6 +3,11 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
 
 body {
 	background: #F3EBE9;
