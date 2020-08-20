@@ -3,6 +3,9 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
+html {
+	margin: 10px 10px 10px 10px;
+}
 
 body {
 	background: #F3EBE9;
