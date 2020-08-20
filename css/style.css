@@ -5,7 +5,6 @@
 /*////////// Global Styles //////////*/
 
 body {
-	margin-left: 10px;
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
@@ -13,7 +12,7 @@ body {
 
 .wrapper {
 	width: 960px;
-	margin: 0 auto;
+	margin-left: 20px;
 	background: #fff;
 	padding: 0 45px 20px;
 }
