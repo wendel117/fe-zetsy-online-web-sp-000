@@ -25,4 +25,9 @@ body {
 footer {
 	text-align: right;
 }
+
+@@font-face {
+	font-family: "Baskerville";
+	src: url("Baskerville.ttc");
+}
 /* Write all remaining styles here */
