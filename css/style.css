@@ -31,6 +31,9 @@ footer {
 	src: url("Baskerville.ttc");
 }
 /* Write all remaining styles here */
+h1{
+	font-size: 600;
+}
 
 h1, h2 {
 	font-family: 'Libre Baskerville', serif;
