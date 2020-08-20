@@ -41,3 +41,8 @@ h1 {
 img {
 	border: 5px solid lightgray;
 }
+
+a:hover {
+	border: 5px solid gray;
+}
+
