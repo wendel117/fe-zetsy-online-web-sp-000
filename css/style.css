@@ -22,9 +22,10 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 100px;
+	
 }
 
 footer {
-	font-color: white;
+	color: white;
 }
 /* Write all remaining styles here */
