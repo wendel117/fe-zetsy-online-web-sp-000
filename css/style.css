@@ -29,11 +29,6 @@ footer {
 	padding-bottom: 30px;
 	font-size: 13px;
 }
-
-@@font-face {
-	font-family: "Baskerville";
-	src: url("Baskerville.ttc");
-}
 /* Write all remaining styles here */
 .header {
 	font-size: 50px;
