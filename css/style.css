@@ -39,3 +39,7 @@ footer {
 h1, h2 {
 	font-family: 'Libre Baskerville', serif;
 }
+
+#necklace {
+	border: 5px solid gray;
+}
