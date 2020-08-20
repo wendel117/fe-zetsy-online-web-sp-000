@@ -3,11 +3,9 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
-html {
-	margin: 10px 10px 10px 10px;
-}
 
 body {
+	margin-left: 10px;
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
